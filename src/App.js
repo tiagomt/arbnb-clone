@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div>
       <NavBar />
-
+      <h1>Teste</h1>
       <Hero />
     </div>
   );
